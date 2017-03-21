@@ -16,3 +16,5 @@ We usually start each CosmoCode session with a brief contribution to a software 
 * Feb 21, 2017:
 * Feb 28, 2017:
 * March 7, 2017: Eric Huff, Balrog code on addressing the surface brightness-limited completeness
+* March 14, 2017:
+* March 21, 2017:
